@@ -5,6 +5,9 @@ This project numerically solves the Poisson equation to compute the velocity pro
 
 The solution uses a finite-difference method on a custom hexagonal mesh.
 
+## Project History
+This project is part of final assignment of course *Mathematical methods for physical chemistry* (Autumn 2015) from MSc studies at the UCT Prague.
+
 ## Project Structure
 - `src/HEXPF.for`: Main Fortran 77 code implementing the numerical solver.
 - `data/velocity_profile.dat`: Computed velocity profile data.
